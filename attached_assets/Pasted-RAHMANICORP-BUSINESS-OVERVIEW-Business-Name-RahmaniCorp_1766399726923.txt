@@ -1,0 +1,297 @@
+RAHMANICORP
+🏢 BUSINESS OVERVIEW
+Business Name: RahmaniCorp
+Founder / Contact Person: Conan Lincoln van Staden
+📍 Base Location: Cape Town, South Africa
+🌍 Service Reach: Local & International Clients
+📞 Contact Numbers:
+
++27 60 944 3087
+
++27 65 006 8374
+
+🌐 Domain: rahmanicorp.co.za
+
+Industry:
+Enterprise IT Consulting, Digital Transformation & Technology Solutions
+
+BRAND POSITIONING (NON-NEGOTIABLE)
+RahmaniCorp must be positioned as a serious, enterprise-focused technology partner, not a generic IT support company.
+
+Brand Identity
+Professional
+
+Corporate
+
+Secure
+
+Scalable
+
+International-ready
+
+Trusted advisor, not just a service provider
+
+Target Clients
+SMEs scaling digitally
+
+Mid-market enterprises
+
+Corporate IT decision-makers
+
+International clients requiring remote delivery
+
+CIOs, CTOs, Operations Managers
+
+VISUAL IDENTITY & COLOR PALETTE
+Primary Palette (Corporate Tech)
+Role
+
+Color
+
+HEX
+
+Primary Brand
+
+Deep Tech Blue
+
+#0A2540
+
+Secondary
+
+Corporate Navy
+
+#102A43
+
+Accent
+
+Electric Cyan
+
+#1FB6FF
+
+Background
+
+Cloud White
+
+#F5F7FA
+
+Text
+
+Graphite Black
+
+#1A1A1A
+
+CTA Accent
+Use
+
+Color
+
+Primary CTA
+
+Electric Cyan
+
+Secondary CTA
+
+Deep Tech Blue (outline)
+
+Typography
+
+Headings: Inter / Poppins / Montserrat
+
+Body: Inter / Roboto
+
+Buttons: Semi-bold, uppercase, confident spacing
+
+WEBSITE STRUCTURE (ENTERPRISE ARCHITECTURE)
+1 HOME PAGE (EXECUTIVE FIRST IMPRESSION)
+Hero Section
+
+Background: abstract cloud / network / digital grid visuals
+
+Headline:
+
+Enterprise IT, Cloud & Digital Transformation Solutions
+
+Sub-headline:
+
+Supporting businesses locally and globally with secure, scalable technology solutions.
+
+CTAs:
+
+Schedule a Consultation
+
+Call +27 60 944 3087
+
+2 ABOUT RAHMANICORP
+Include:
+
+Founder-led expertise
+
+Cape Town base with international delivery
+
+Strategic IT consulting approach
+
+Long-term partnership mindset
+
+Vendor-agnostic solutions
+
+Tone: Confident, corporate, advisory
+
+3 SERVICES (CORE OFFERINGS)
+Each service must have its own dedicated section or page.
+
+🔹 IT Consulting & Digital Transformation
+IT strategy
+
+Business process optimisation
+
+Digital roadmap planning
+
+🔹 Cloud Services
+Microsoft 365
+
+Google Workspace
+
+Azure
+
+Cloud migration
+
+Backup & disaster recovery
+
+🔹 Managed IT Services
+Proactive monitoring
+
+Helpdesk & SLA support
+
+SME & enterprise management
+
+🔹 Business Telecommunications
+VoIP
+
+Hosted PBX
+
+Unified communications
+
+🔹 Corporate Connectivity
+SD-WAN
+
+VPN
+
+Business fibre
+
+ISP resale
+
+🔹 Smart Office & Security
+Commercial CCTV
+
+Access control
+
+Enterprise Wi-Fi design
+
+🔹 Web & Digital Services
+Website development
+
+App integration
+
+Digital automation solutions
+
+CTA on every service:
+👉 Discuss This Solution
+
+4 INDUSTRIES / USE CASES
+Optional but recommended:
+
+SMEs
+
+Corporate offices
+
+Retail
+
+Logistics
+
+Professional services
+
+Remote teams
+
+5 CONTACT PAGE
+Include:
+
+Contact numbers
+
+Email (professional format recommended)
+
+Consultation booking form
+
+Service area note: Local & International Clients
+
+CTA: Start a Technology Conversation
+
+IMAGERY & MEDIA GUIDELINES
+High-quality corporate stock images
+
+Themes: cloud, data centres, smart offices, global networks
+
+WebP format
+
+Lazy-loaded
+
+Professional tone only (no generic IT clichés)
+
+SEO & STRUCTURED DATA
+Schema
+Organization
+
+ITService
+
+LocalBusiness
+
+Website + SearchAction
+
+BreadcrumbList
+
+Primary SEO Keywords
+IT consulting Cape Town
+
+Managed IT services South Africa
+
+Cloud services for business
+
+VoIP solutions South Africa
+
+SD-WAN provider
+
+PERFORMANCE & TECH REQUIREMENTS
+Mobile-first
+
+Load time < 1.5s
+
+WCAG AA accessibility
+
+CDN enabled
+
+HTTPS enforced
+
+GA4 + Google Tag Manager installed
+
+SITEMAP STRUCTURE
+/
+ /about
+ /services
+ /services/it-consulting
+ /services/cloud-services
+ /services/managed-it
+ /services/telecommunications
+ /services/connectivity
+ /services/smart-office-security
+ /services/web-digital
+ /industries
+ /contact
+ /privacy-policy
+ /terms-of-service
+
+WHY THIS IS A PREMIUM WEBSITE
+✔ Enterprise trust positioning
+✔ International-ready messaging
+✔ Advisory-first tone
+✔ Scalable architecture
+✔ High-conversion CTAs
+✔ SEO + performance driven
